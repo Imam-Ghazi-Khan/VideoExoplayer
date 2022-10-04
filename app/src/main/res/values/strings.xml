@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoExoplayer</string>
+    <string name="url_for_videos_api">https://pixabay.com/api/videos/?key=30333777-9eaa2f740e1b16ef7ad210e43&amp;q=yellow+flowers</string>
+</resources>
